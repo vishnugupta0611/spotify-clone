@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    box-sizing: border-box;
+    background: #8b8080;
+}
+.main{
+ padding: 2rem;
+}
+.heading1{
+    color: rgb(163, 41, 41);
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+}
+.heading2{
+    font-size: 1rem;
+    color: azure;
+}
+.heading2content{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.heading3{
+    color: aliceblue;
+    margin-bottom: 1rem;
+}.heading4{
+    color: aliceblue;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
